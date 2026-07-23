@@ -20,7 +20,7 @@ Browser games, language tools and playful web experiments.
 
 > **一条要求不难，全部一起就难了。**
 
-三款中文递进规则小游戏，共 52 条规则。你需要在同一段文字中，同时满足不断追加的全部要求：应付甲方改稿、通过请假审批，或者接受家庭群昵称审核。
+三款中文递进规则小游戏，共 54 条规则。你需要在同一段文字中，同时满足不断追加的全部要求：应付甲方改稿、通过请假审批，或者接受家庭群昵称审核。
 
 [**立即开始游戏 →**](https://gamebunensi.github.io/one-more-rule/)　·　[查看项目与玩法说明](https://github.com/Gamebunensi/one-more-rule)
 
